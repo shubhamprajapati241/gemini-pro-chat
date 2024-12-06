@@ -23,7 +23,7 @@ To get started with the project, follow the steps below.
 1. Clone the repository:
 
    ```bash
-   https://github.com/shubhamprajapati241/gemini-pro-chat.git
+   git clone https://github.com/shubhamprajapati241/gemini-pro-chat.git
    cd gemini-pro-chat
    ```
 
